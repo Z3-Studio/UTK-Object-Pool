@@ -1,0 +1,14 @@
+{
+    "name": "Z3.ObjectPooling",
+    "rootNamespace": "Z3.ObjectPooling",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

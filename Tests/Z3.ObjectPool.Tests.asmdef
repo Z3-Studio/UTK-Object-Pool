@@ -1,0 +1,17 @@
+{
+    "name": "Z3.ObjectPooling.Test",
+    "rootNamespace": "Z3.ObjectPooling.Test",
+    "references": [
+        "GUID:df55f17f78f75a643aff19957150ab7f",
+        "GUID:0d23aca60b335b84db18b2e213b18747"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
