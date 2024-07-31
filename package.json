@@ -1,6 +1,6 @@
 {
-  "name": "com.z3.object-pool",
-  "displayName": "Z3 Object Pool",
+  "name": "com.z3.object-pooling",
+  "displayName": "Z3 Object Pooling",
   "version": "1.0.0",
   "description": "Object pooling solutions for Unity.",
   "unity": "2021.3",
